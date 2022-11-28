@@ -13,11 +13,15 @@
 &lt;/ul&gt;
 &lt;p&gt;that have obvious relevance or an explicit relation to finite-state methods.&lt;/p&gt;
 &lt;h3&gt;Dates and Invited Program&lt;/h3&gt;
-&lt;p&gt;FSMNLP 2023 will be held (dates preliminary) September 4-6 in Stellenbosch, South Africa&lt;/p&gt;
+&lt;p&gt;FSMNLP 2023 will be held (dates preliminary) August 28-30 in Stellenbosch, South Africa&lt;/p&gt;
 &lt;p&gt;Invited talks/tutorials:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;To be determined.&lt;/li&gt;
-&lt;/ul&gt;</content><category term="General Information"></category></entry><entry><title>Call for Papers</title><link href="https://fsmnlp2023.github.io/call-for-papers.html" rel="alternate"></link><published>2022-10-18T00:00:00+02:00</published><updated>2022-10-18T00:00:00+02:00</updated><author><name>FSMNLP 2023 organizing team</name></author><id>tag:fsmnlp2023.github.io,2022-10-18:/call-for-papers.html</id><summary type="html">&lt;p&gt;The conference invites papers related to themes including but not limited to:&lt;/p&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Adjacency to IJCAI 2023&lt;/h3&gt;
+&lt;p&gt;Note that FSMNLP runs the days just after the completion of &lt;a href="https://www.ijcai.org/"&gt;International Joint Conferences on Artificial Intelligence 2023&lt;/a&gt;, which is arranged in Cape Town August 19th through the 25th. Cape Town is a short car ride from Stellenbosch, making attending both events very practical.&lt;/p&gt;
+&lt;h3&gt;Registration&lt;/h3&gt;
+&lt;p&gt;Registration will carry a (reasonable) fee this year.&lt;/p&gt;</content><category term="General Information"></category></entry><entry><title>Call for Papers</title><link href="https://fsmnlp2023.github.io/call-for-papers.html" rel="alternate"></link><published>2022-10-18T00:00:00+02:00</published><updated>2022-10-18T00:00:00+02:00</updated><author><name>FSMNLP 2023 organizing team</name></author><id>tag:fsmnlp2023.github.io,2022-10-18:/call-for-papers.html</id><summary type="html">&lt;p&gt;The conference invites papers related to themes including but not limited to:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;NLP applications and linguistic aspects of finite-state methods&lt;/li&gt;
 &lt;li&gt;Finite-state models of language&lt;/li&gt;
@@ -51,7 +55,7 @@
 &lt;p&gt;Papers must be submitted electronically in PDF format via &lt;a href="https://easychair.org/"&gt;easychair&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;It is excepted that&lt;/em&gt; all accepted papers will be published and archived in the FSMNLP 2023 proceedings in the ACL Anthology. For this the authors should grant the appropriate copyright.&lt;/p&gt;
 &lt;h3&gt;Computational Challenge&lt;/h3&gt;
-&lt;p&gt;Potentially we borrow some hardware/software from WARA M&amp;amp;L to do something of a challenge with hidden data sets.&lt;/p&gt;</content><category term="Paper Submission, CFP"></category></entry><entry><title>Venue</title><link href="https://fsmnlp2023.github.io/venue.html" rel="alternate"></link><published>2022-10-18T00:00:00+02:00</published><updated>2022-10-18T00:00:00+02:00</updated><author><name>FSMNLP 2023 organizing team</name></author><id>tag:fsmnlp2023.github.io,2022-10-18:/venue.html</id><content type="html">&lt;p&gt;The conference will be held at &lt;a href="https://stias.ac.za/"&gt;STIAS, the Stellenbosch Institute for Advanced Study&lt;/a&gt;, in the Manor house.&lt;/p&gt;
+&lt;p&gt;Potentially we borrow some hardware/software from WARA M&amp;amp;L to do something of a challenge with hidden data sets. This might simply be an updated fragment of the competition run at ICGI, taking only the subset reasonably amenable to FSM.&lt;/p&gt;</content><category term="Paper Submission, CFP"></category></entry><entry><title>Venue</title><link href="https://fsmnlp2023.github.io/venue.html" rel="alternate"></link><published>2022-10-18T00:00:00+02:00</published><updated>2022-10-18T00:00:00+02:00</updated><author><name>FSMNLP 2023 organizing team</name></author><id>tag:fsmnlp2023.github.io,2022-10-18:/venue.html</id><content type="html">&lt;p&gt;The conference will be held at &lt;a href="https://stias.ac.za/"&gt;STIAS, the Stellenbosch Institute for Advanced Study&lt;/a&gt;, in the Manor house.&lt;/p&gt;
 &lt;div class="row"&gt;
     &lt;div class="column"&gt;
         &lt;img src="/images/manor_house.jpg" style="width: 99%; margin: 2px;"/&gt;
@@ -70,7 +74,7 @@
 &lt;li&gt;Using what your accomodation recommends, most guest houses and hotels have deals with good shuttle companies.&lt;/li&gt;
 &lt;li&gt;Uber is generally a good option in South Africa, there is a clearly marked (though often busy) dedicated pickup area at the airport.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1&gt;Local Travel&lt;/h1&gt;
+&lt;h3&gt;Local Travel&lt;/h3&gt;
 &lt;p&gt;Uber is pretty good!&lt;/p&gt;
-&lt;h1&gt;Accomodation&lt;/h1&gt;
+&lt;h3&gt;Accomodation&lt;/h3&gt;
 &lt;p&gt;Neethling street guest houses, probably.&lt;/p&gt;</content><category term="Travel Information"></category></entry></feed>
