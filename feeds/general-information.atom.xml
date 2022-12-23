@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>FSMNLP 2023 in Stellenbosch - General Information</title><link href="https://fsmnlp2023.github.io/" rel="alternate"></link><link href="https://fsmnlp2023.github.io/feeds/general-information.atom.xml" rel="self"></link><id>https://fsmnlp2023.github.io/</id><updated>2022-10-19T00:00:00+02:00</updated><entry><title>The 15th International Conference on Finite-State Methods and Natural Language Processing</title><link href="https://fsmnlp2023.github.io/the-15th-international-conference-on-finite-state-methods-and-natural-language-processing.html" rel="alternate"></link><published>2022-10-19T00:00:00+02:00</published><updated>2022-10-19T00:00:00+02:00</updated><author><name>FSMNLP 2023 organizing team</name></author><id>tag:fsmnlp2023.github.io,2022-10-19:/the-15th-international-conference-on-finite-state-methods-and-natural-language-processing.html</id><summary type="html">&lt;p&gt;The international conference series &lt;em&gt;"Finite-State Methods and Natural Language Processing"&lt;/em&gt; (FSMNLP) is the premier forum of the ACL Special Interest Group on Finite-State Methods (SIGFSM). SIGFSM serves researchers and practitioners in natural language processing (NLP) working on:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>FSMNLP 2023 in Stellenbosch - General Information</title><link href="https://fsmnlp2023.github.io/" rel="alternate"></link><link href="https://fsmnlp2023.github.io/feeds/general-information.atom.xml" rel="self"></link><id>https://fsmnlp2023.github.io/</id><updated>2022-08-28T00:00:00+02:00</updated><subtitle>28-30th of August 2023</subtitle><entry><title>The 15th International Conference on Finite-State Methods and Natural Language Processing</title><link href="https://fsmnlp2023.github.io/the-15th-international-conference-on-finite-state-methods-and-natural-language-processing.html" rel="alternate"></link><published>2022-08-28T00:00:00+02:00</published><updated>2022-08-28T00:00:00+02:00</updated><author><name>FSMNLP 2023 organizing team</name></author><id>tag:fsmnlp2023.github.io,2022-08-28:/the-15th-international-conference-on-finite-state-methods-and-natural-language-processing.html</id><summary type="html">&lt;p&gt;The international conference series &lt;em&gt;"Finite-State Methods and Natural Language Processing"&lt;/em&gt; (FSMNLP) is the premier forum of the ACL Special Interest Group on Finite-State Methods (SIGFSM). SIGFSM serves researchers and practitioners in natural language processing (NLP) working on:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;natural language processing (implementation, applications, language resources),&lt;/li&gt;
 &lt;li&gt;theoretical aspects, or&lt;/li&gt;
@@ -12,13 +12,26 @@
 &lt;li&gt;combinations thereof,&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;that have obvious relevance or an explicit relation to finite-state methods.&lt;/p&gt;
-&lt;h3&gt;Dates and Invited Program&lt;/h3&gt;
-&lt;p&gt;FSMNLP 2023 will be held (dates preliminary) August 28-30 in Stellenbosch, South Africa&lt;/p&gt;
-&lt;p&gt;Invited talks/tutorials:&lt;/p&gt;
+&lt;h3&gt;Important Dates&lt;/h3&gt;
+&lt;p&gt;FSMNLP 2023 will be held (dates preliminary) August 28-30 in Stellenbosch, South Africa.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;To be determined.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;May 15, 2023:&lt;/strong&gt; Abstract submission deadline&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;May 22, 2023:&lt;/strong&gt; Paper submission deadline&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;July 4, 2023:&lt;/strong&gt; Notification of acceptance&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;July 18, 2023:&lt;/strong&gt; Camera-ready version due&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;August 28-30, 2023:&lt;/strong&gt; Event on-site in Stellenbosch&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Submissions are made in two stages, a submission of a preliminary abstract
+later followed by a submission of the paper itself. See the call for papers below.&lt;/p&gt;
 &lt;h3&gt;Adjacency to IJCAI 2023&lt;/h3&gt;
 &lt;p&gt;Note that FSMNLP runs the days just after the completion of &lt;a href="https://www.ijcai.org/"&gt;International Joint Conferences on Artificial Intelligence 2023&lt;/a&gt;, which is arranged in Cape Town August 19th through the 25th. Cape Town is a short car ride from Stellenbosch, making attending both events very practical.&lt;/p&gt;
 &lt;h3&gt;Registration&lt;/h3&gt;
-&lt;p&gt;Registration will carry a (reasonable) fee this year.&lt;/p&gt;</content><category term="General Information"></category></entry></feed>
+&lt;p&gt;Registration will carry a (reasonable) fee this year.&lt;/p&gt;
+&lt;h3&gt;Invited talks/tutorials&lt;/h3&gt;
+&lt;p&gt;To be determined.&lt;/p&gt;</content><category term="General Information"></category></entry><entry><title>People</title><link href="https://fsmnlp2023.github.io/people.html" rel="alternate"></link><published>2022-08-26T00:00:00+02:00</published><updated>2022-08-26T00:00:00+02:00</updated><author><name>FSMNLP 2023 organizing team</name></author><id>tag:fsmnlp2023.github.io,2022-08-26:/people.html</id><content type="html">&lt;h2&gt;Organizing Committee&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bruce Watson, Stellenbosch University&lt;/li&gt;
+&lt;li&gt;Brink van der Merwe, Stellenbosch University, &lt;a href="mailto:abvdm@cs.sun.ac.za"&gt;abvdm@cs.sun.ac.za&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Martin Berglund, Umeå University, &lt;a href="mailto:mbe@cs.umu.se"&gt;mbe@cs.umu.se&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Program Committee&lt;/h2&gt;</content><category term="General Information"></category></entry></feed>

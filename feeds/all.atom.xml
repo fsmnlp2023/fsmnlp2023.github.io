@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>FSMNLP 2023 in Stellenbosch</title><link href="https://fsmnlp2023.github.io/" rel="alternate"></link><link href="https://fsmnlp2023.github.io/feeds/all.atom.xml" rel="self"></link><id>https://fsmnlp2023.github.io/</id><updated>2022-10-19T00:00:00+02:00</updated><entry><title>The 15th International Conference on Finite-State Methods and Natural Language Processing</title><link href="https://fsmnlp2023.github.io/the-15th-international-conference-on-finite-state-methods-and-natural-language-processing.html" rel="alternate"></link><published>2022-10-19T00:00:00+02:00</published><updated>2022-10-19T00:00:00+02:00</updated><author><name>FSMNLP 2023 organizing team</name></author><id>tag:fsmnlp2023.github.io,2022-10-19:/the-15th-international-conference-on-finite-state-methods-and-natural-language-processing.html</id><summary type="html">&lt;p&gt;The international conference series &lt;em&gt;"Finite-State Methods and Natural Language Processing"&lt;/em&gt; (FSMNLP) is the premier forum of the ACL Special Interest Group on Finite-State Methods (SIGFSM). SIGFSM serves researchers and practitioners in natural language processing (NLP) working on:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>FSMNLP 2023 in Stellenbosch</title><link href="https://fsmnlp2023.github.io/" rel="alternate"></link><link href="https://fsmnlp2023.github.io/feeds/all.atom.xml" rel="self"></link><id>https://fsmnlp2023.github.io/</id><updated>2022-08-28T00:00:00+02:00</updated><subtitle>28-30th of August 2023</subtitle><entry><title>The 15th International Conference on Finite-State Methods and Natural Language Processing</title><link href="https://fsmnlp2023.github.io/the-15th-international-conference-on-finite-state-methods-and-natural-language-processing.html" rel="alternate"></link><published>2022-08-28T00:00:00+02:00</published><updated>2022-08-28T00:00:00+02:00</updated><author><name>FSMNLP 2023 organizing team</name></author><id>tag:fsmnlp2023.github.io,2022-08-28:/the-15th-international-conference-on-finite-state-methods-and-natural-language-processing.html</id><summary type="html">&lt;p&gt;The international conference series &lt;em&gt;"Finite-State Methods and Natural Language Processing"&lt;/em&gt; (FSMNLP) is the premier forum of the ACL Special Interest Group on Finite-State Methods (SIGFSM). SIGFSM serves researchers and practitioners in natural language processing (NLP) working on:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;natural language processing (implementation, applications, language resources),&lt;/li&gt;
 &lt;li&gt;theoretical aspects, or&lt;/li&gt;
@@ -12,50 +12,67 @@
 &lt;li&gt;combinations thereof,&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;that have obvious relevance or an explicit relation to finite-state methods.&lt;/p&gt;
-&lt;h3&gt;Dates and Invited Program&lt;/h3&gt;
-&lt;p&gt;FSMNLP 2023 will be held (dates preliminary) August 28-30 in Stellenbosch, South Africa&lt;/p&gt;
-&lt;p&gt;Invited talks/tutorials:&lt;/p&gt;
+&lt;h3&gt;Important Dates&lt;/h3&gt;
+&lt;p&gt;FSMNLP 2023 will be held (dates preliminary) August 28-30 in Stellenbosch, South Africa.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;To be determined.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;May 15, 2023:&lt;/strong&gt; Abstract submission deadline&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;May 22, 2023:&lt;/strong&gt; Paper submission deadline&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;July 4, 2023:&lt;/strong&gt; Notification of acceptance&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;July 18, 2023:&lt;/strong&gt; Camera-ready version due&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;August 28-30, 2023:&lt;/strong&gt; Event on-site in Stellenbosch&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Submissions are made in two stages, a submission of a preliminary abstract
+later followed by a submission of the paper itself. See the call for papers below.&lt;/p&gt;
 &lt;h3&gt;Adjacency to IJCAI 2023&lt;/h3&gt;
 &lt;p&gt;Note that FSMNLP runs the days just after the completion of &lt;a href="https://www.ijcai.org/"&gt;International Joint Conferences on Artificial Intelligence 2023&lt;/a&gt;, which is arranged in Cape Town August 19th through the 25th. Cape Town is a short car ride from Stellenbosch, making attending both events very practical.&lt;/p&gt;
 &lt;h3&gt;Registration&lt;/h3&gt;
-&lt;p&gt;Registration will carry a (reasonable) fee this year.&lt;/p&gt;</content><category term="General Information"></category></entry><entry><title>Call for Papers</title><link href="https://fsmnlp2023.github.io/call-for-papers.html" rel="alternate"></link><published>2022-10-18T00:00:00+02:00</published><updated>2022-10-18T00:00:00+02:00</updated><author><name>FSMNLP 2023 organizing team</name></author><id>tag:fsmnlp2023.github.io,2022-10-18:/call-for-papers.html</id><summary type="html">&lt;p&gt;The conference invites papers related to themes including but not limited to:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;NLP applications and linguistic aspects of finite-state methods&lt;/li&gt;
-&lt;li&gt;Finite-state models of language&lt;/li&gt;
-&lt;li&gt;Practices for building and evaluating morphological models for the world’s languages using finite-state technology&lt;/li&gt;
-&lt;li&gt;Machine learning of finite-state models of natural language&lt;/li&gt;
-&lt;li&gt;Finite-state manipulation software …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;The conference invites papers related to themes including but not limited to:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;NLP applications and linguistic aspects of finite-state methods&lt;/li&gt;
-&lt;li&gt;Finite-state models of language&lt;/li&gt;
-&lt;li&gt;Practices for building and evaluating morphological models for the world’s languages using finite-state technology&lt;/li&gt;
-&lt;li&gt;Machine learning of finite-state models of natural language&lt;/li&gt;
-&lt;li&gt;Finite-state manipulation software and tools with relevance to NLP&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Important dates&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;deadline of submission: tbd&lt;/li&gt;
-&lt;li&gt;notification: tbd&lt;/li&gt;
-&lt;li&gt;camera-ready version: tbd&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Submissions&lt;/h3&gt;
-&lt;p&gt;Papers must present original, unpublished research and implementation results. Simultaneous submissions to FSMNLP and to another conference or workshop are not allowed.&lt;/p&gt;
+&lt;p&gt;Registration will carry a (reasonable) fee this year.&lt;/p&gt;
+&lt;h3&gt;Invited talks/tutorials&lt;/h3&gt;
+&lt;p&gt;To be determined.&lt;/p&gt;</content><category term="General Information"></category></entry><entry><title>Call for Papers</title><link href="https://fsmnlp2023.github.io/call-for-papers.html" rel="alternate"></link><published>2022-08-27T00:00:00+02:00</published><updated>2022-08-27T00:00:00+02:00</updated><author><name>FSMNLP 2023 organizing team</name></author><id>tag:fsmnlp2023.github.io,2022-08-27:/call-for-papers.html</id><summary type="html">&lt;p&gt;Submissions on &lt;a href="https://www.easychair.org/conferences/?conf=fsmnlp2023"&gt;easychair&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Submissions are made in two stages, a submission of a preliminary abstract
+later followed by a submission of the paper itself. Papers must present
+original, unpublished research and implementation results. Simultaneous
+submissions to FSMNLP and to another conference or workshop are allowed.
+According to the &lt;a href="https://www.aclweb.org/archive/policies/current/double-submission-policy.html"&gt;ACL double …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Submissions on &lt;a href="https://www.easychair.org/conferences/?conf=fsmnlp2023"&gt;easychair&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Submissions are made in two stages, a submission of a preliminary abstract
+later followed by a submission of the paper itself. Papers must present
+original, unpublished research and implementation results. Simultaneous
+submissions to FSMNLP and to another conference or workshop are allowed.
+According to the &lt;a href="https://www.aclweb.org/archive/policies/current/double-submission-policy.html"&gt;ACL double submission policy&lt;/a&gt;,
+doubly-submitted papers should indicate this fact on the title page. If
+accepted at both FSMNLP and the other meeting, such a paper must be withdrawn
+from one of them. Withdrawal from FSMNLP shall be as soon as possible but no
+later than one week after the notification of acceptance at FSMNLP.&lt;/p&gt;
 &lt;p&gt;FSMNLP accepts two kinds of submissions:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;long papers (8 pages excluding references and appendices) reporting completed, significant research,&lt;/li&gt;
-&lt;li&gt;short papers (4 pages excluding references and appendices) reporting ongoing work and partial results, implementations, grammars, practical tools, interactive software demos, etc.&lt;/li&gt;
+&lt;li&gt;long papers (8 pages excluding references) reporting completed, significant
+research,&lt;/li&gt;
+&lt;li&gt;short papers (4 pages excluding references) reporting ongoing work
+and partial results, implementations, grammars, practical tools,
+interactive software demos, etc.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Short papers are expected to be presented as system demos, posters and/or short presentations, while long papers are presented in full talks. Accepted long papers can be extended by one page in order to deal with the criticism in the reviews.&lt;/p&gt;
-&lt;p&gt;All submissions are electronic and only in PDF format via EasyChair. Authors have to prepare their papers in LaTeX using the ACL 2019 style files to produce the PDF document. The zip archive of the style files can be downloaded here: &lt;a href="https://www.orchid.inf.tu-dresden.de/fsmnlp2019/assets/pdf/340-acl2019-latex.zip"&gt;ACL 2019 style&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Since the submission and reviewing is double blind, information about the author(s) and other identifying information such as obvious self-references (e.g., “We showed in [12] …”) and financial or personal acknowledgements should be omitted in the submitted papers whenever feasible.&lt;/p&gt;
-&lt;p&gt;A paper may contain a clearly marked appendix and data files to support its claims. This material will not be published. While reviewers are urged to consult this extra material for better comprehension, it is at their discretion whether they do so. Such extra material should also be anonymized to the extent feasible.&lt;/p&gt;
-&lt;p&gt;Papers must be submitted electronically in PDF format via &lt;a href="https://easychair.org/"&gt;easychair&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;It is excepted that&lt;/em&gt; all accepted papers will be published and archived in the FSMNLP 2023 proceedings in the ACL Anthology. For this the authors should grant the appropriate copyright.&lt;/p&gt;
-&lt;h3&gt;Computational Challenge&lt;/h3&gt;
-&lt;p&gt;Potentially we borrow some hardware/software from WARA M&amp;amp;L to do something of a challenge with hidden data sets. This might simply be an updated fragment of the competition run at ICGI, taking only the subset reasonably amenable to FSM.&lt;/p&gt;</content><category term="Paper Submission, CFP"></category></entry><entry><title>Venue</title><link href="https://fsmnlp2023.github.io/venue.html" rel="alternate"></link><published>2022-10-18T00:00:00+02:00</published><updated>2022-10-18T00:00:00+02:00</updated><author><name>FSMNLP 2023 organizing team</name></author><id>tag:fsmnlp2023.github.io,2022-10-18:/venue.html</id><content type="html">&lt;p&gt;The conference will be held at &lt;a href="https://stias.ac.za/"&gt;STIAS, the Stellenbosch Institute for Advanced Study&lt;/a&gt;, in the Manor house.&lt;/p&gt;
+&lt;p&gt;Short papers are expected to be presented as system demos, posters and/or
+short presentations, while long papers are presented in full talks.&lt;/p&gt;
+&lt;p&gt;All submissions are electronic and in PDF format via a web-based submission
+server. Authors are strongly encouraged to preparte their papers in LaTeX
+using the ACL 2021-12 style files to produce the PDF document. The zip archive
+of the style files can be downloaded &lt;a href="https://github.com/acl-org/acl-style-files/releases/tag/2021-12"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Information about the author(s) and other identifying information such as
+obvious self-references (e.g., “We showed in [12] …”) and financial or
+personal acknowledgements should be omitted in the submitted papers whenever
+feasible.&lt;/p&gt;
+&lt;p&gt;Papers must be submitted electronically in PDF on &lt;a href="https://www.easychair.org/conferences/?conf=fsmnlp2023"&gt;easychair&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A paper may contain a clearly marked appendix and data files to support its
+claims. This material will not be published. While reviewers are urged to
+consult this extra material for better comprehension, it is at their
+discretion whether they do so. Such extra material should also be anonymized
+to the extent feasible.&lt;/p&gt;</content><category term="Paper Submission, CFP"></category></entry><entry><title>People</title><link href="https://fsmnlp2023.github.io/people.html" rel="alternate"></link><published>2022-08-26T00:00:00+02:00</published><updated>2022-08-26T00:00:00+02:00</updated><author><name>FSMNLP 2023 organizing team</name></author><id>tag:fsmnlp2023.github.io,2022-08-26:/people.html</id><content type="html">&lt;h2&gt;Organizing Committee&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bruce Watson, Stellenbosch University&lt;/li&gt;
+&lt;li&gt;Brink van der Merwe, Stellenbosch University, &lt;a href="mailto:abvdm@cs.sun.ac.za"&gt;abvdm@cs.sun.ac.za&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Martin Berglund, Umeå University, &lt;a href="mailto:mbe@cs.umu.se"&gt;mbe@cs.umu.se&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Program Committee&lt;/h2&gt;</content><category term="General Information"></category></entry><entry><title>Venue</title><link href="https://fsmnlp2023.github.io/venue.html" rel="alternate"></link><published>2022-08-25T00:00:00+02:00</published><updated>2022-08-25T00:00:00+02:00</updated><author><name>FSMNLP 2023 organizing team</name></author><id>tag:fsmnlp2023.github.io,2022-08-25:/venue.html</id><content type="html">&lt;p&gt;The conference will be held at &lt;a href="https://stias.ac.za/"&gt;STIAS, the Stellenbosch Institute for Advanced Study&lt;/a&gt;, in the Manor house.&lt;/p&gt;
 &lt;div class="row"&gt;
     &lt;div class="column"&gt;
         &lt;img src="/images/manor_house.jpg" style="width: 99%; margin: 2px;"/&gt;
@@ -66,7 +83,7 @@
 &lt;/div&gt;
 
 &lt;p&gt;STIAS is located at &lt;em&gt;10 Marais Road,&lt;/em&gt; a short walk from all the most likely accomodation.&lt;/p&gt;
-&lt;iframe style="width: 100%; height: 25em;" loading="lazy" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=STIAS%2C%20Stellenbosch&amp;amp;t=m&amp;amp;z=15&amp;amp;output=embed&amp;amp;iwloc=near" aria-label="STIAS, Stellenbosch" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://maps.google.com/maps?q=STIAS%2C%20Stellenbosch&amp;amp;t=m&amp;amp;z=15&amp;amp;output=embed&amp;amp;iwloc=near" class="lazyloaded" data-was-processed="true"&gt;&lt;/iframe&gt;</content><category term="Travel Information"></category></entry><entry><title>Travel Information</title><link href="https://fsmnlp2023.github.io/travel-information.html" rel="alternate"></link><published>2022-10-17T00:00:00+02:00</published><updated>2022-10-17T00:00:00+02:00</updated><author><name>FSMNLP 2023 organizing team</name></author><id>tag:fsmnlp2023.github.io,2022-10-17:/travel-information.html</id><summary type="html">&lt;p&gt;Need to fly to Cape Town International airport (CPT). For transfer from the airport we recommend either:&lt;/p&gt;
+&lt;iframe style="width: 100%; height: 25em;" loading="lazy" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=STIAS%2C%20Stellenbosch&amp;amp;t=m&amp;amp;z=15&amp;amp;output=embed&amp;amp;iwloc=near" aria-label="STIAS, Stellenbosch" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://maps.google.com/maps?q=STIAS%2C%20Stellenbosch&amp;amp;t=m&amp;amp;z=15&amp;amp;output=embed&amp;amp;iwloc=near" class="lazyloaded" data-was-processed="true"&gt;&lt;/iframe&gt;</content><category term="Travel Information"></category></entry><entry><title>Travel Information</title><link href="https://fsmnlp2023.github.io/travel-information.html" rel="alternate"></link><published>2022-08-24T00:00:00+02:00</published><updated>2022-08-24T00:00:00+02:00</updated><author><name>FSMNLP 2023 organizing team</name></author><id>tag:fsmnlp2023.github.io,2022-08-24:/travel-information.html</id><summary type="html">&lt;p&gt;Need to fly to Cape Town International airport (CPT). For transfer from the airport we recommend either:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Using what your accomodation recommends, most guest houses and hotels have deals with good shuttle companies.&lt;/li&gt;
 &lt;li&gt;Uber is generally a good option in South Africa, there is a clearly marked (though often busy …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Need to fly to Cape Town International airport (CPT). For transfer from the airport we recommend either:&lt;/p&gt;
@@ -77,4 +94,4 @@
 &lt;h3&gt;Local Travel&lt;/h3&gt;
 &lt;p&gt;Uber is pretty good!&lt;/p&gt;
 &lt;h3&gt;Accomodation&lt;/h3&gt;
-&lt;p&gt;Neethling street guest houses, probably.&lt;/p&gt;</content><category term="Travel Information"></category></entry></feed>
+&lt;p&gt;Information to follow, but any Neethling street guest house is good.&lt;/p&gt;</content><category term="Travel Information"></category></entry></feed>
